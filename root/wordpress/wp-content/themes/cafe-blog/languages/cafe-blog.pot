@@ -1,0 +1,316 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Cafe Blog 1.0.9\n"
+"POT-Creation-Date: 2017-11-27 16:43+0200\n"
+"PO-Revision-Date: 2017-08-26 00:42+0200\n"
+"Last-Translator: FreebiesCafe.com <contact@freebiescafe.com>\n"
+"Language-Team: FreebiesCafe.com <contact@freebiescafe.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive.php:37 search.php:31
+msgid "Nothing Found"
+msgstr ""
+
+#: archive.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:13
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid " &larr;  Older Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Newer Comments  &rarr; "
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:80
+msgid "<h3 id=\"reply-title\">Leave a Comment</h3>"
+msgstr ""
+
+#: comments.php:81
+msgid ""
+"<p class=\"comment-note\">Required fields are marked <span class=\"required"
+"\">*</span>.</p>"
+msgstr ""
+
+#: comments.php:83
+msgctxt "noun"
+msgid "Message <span class=\"required\">*</span>"
+msgstr ""
+
+#: comments.php:84
+msgid "Send Comment"
+msgstr ""
+
+#: footer.php:24
+msgid "Y"
+msgstr ""
+
+#: footer.php:26
+msgid "Handpicked Free Web Design Resources"
+msgstr ""
+
+#: footer.php:27
+#, php-format
+msgid "%1$s Theme by %2$s"
+msgstr ""
+
+#: includes/common.php:39
+msgid "Main Menu"
+msgstr ""
+
+#: includes/common.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/common.php:99
+msgid "Sidebar"
+msgstr ""
+
+#: includes/common.php:101
+msgid "Widgets will appear in the left sidebar, below the main navigation."
+msgstr ""
+
+#: includes/common.php:135
+msgid "Continue reading"
+msgstr ""
+
+#: includes/common.php:245
+msgid "&laquo;"
+msgstr ""
+
+#: includes/common.php:246
+msgid "&raquo;"
+msgstr ""
+
+#: includes/common.php:285
+msgid "<span>Pingback:</span>"
+msgstr ""
+
+#: includes/common.php:286 includes/common.php:308
+msgid "Edit &rarr;"
+msgstr ""
+
+#: includes/common.php:301
+#, php-format
+msgid " %s "
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: includes/common.php:306
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+#: includes/common.php:313
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/common.php:317
+msgid "Reply"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/common.php:339 includes/common.php:345
+msgid ", "
+msgstr ""
+
+#: includes/common.php:341
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: includes/common.php:347
+#, php-format
+msgid " Tagged %1$s"
+msgstr ""
+
+#: includes/common.php:355
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/common.php:356
+msgid "1 Comment"
+msgstr ""
+
+#: includes/common.php:357
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: includes/common.php:366
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/customizer.php:21
+msgid "Signature Image"
+msgstr ""
+
+#: includes/customizer.php:50
+msgid "Social Media Icons"
+msgstr ""
+
+#: includes/customizer.php:69
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/customizer.php:91
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/customizer.php:112
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/customizer.php:133
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/customizer.php:153
+msgid "Snapchat URL"
+msgstr ""
+
+#: includes/customizer.php:175
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/customizer.php:197
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/customizer.php:209
+msgid "Related Posts"
+msgstr ""
+
+#: includes/customizer.php:228
+msgid "Get related posts by"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for <strong>&lsquo;%s&rsquo;</strong>"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-audio.php:15 template-parts/content-image.php:15
+#: template-parts/content-video.php:15 template-parts/content.php:15
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-audio.php:24 template-parts/content-image.php:24
+#: template-parts/content-quote.php:20 template-parts/content-single.php:20
+#: template-parts/content-status.php:20 template-parts/content-video.php:24
+#: template-parts/content.php:24
+#, php-format
+msgid "<a href=\"%1$s\" title=\"%2$s\">%3$s</a>, "
+msgstr ""
+
+#: template-parts/content-audio.php:26 template-parts/content-image.php:26
+#: template-parts/content-quote.php:22 template-parts/content-single.php:22
+#: template-parts/content-status.php:22 template-parts/content-video.php:26
+#: template-parts/content.php:26
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: template-parts/content-link.php:20 template-parts/content-single.php:41
+#: template-parts/content.php:49
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-quote.php:14
+msgid "Quote"
+msgstr ""
+
+#: template-parts/content-single.php:39
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-status.php:14
+msgid "Status"
+msgstr ""
+
+#: template-parts/related.php:3
+msgid "Related articles"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Cafe Blog"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Beautiful minimal full-width theme, perfect for showcasing your blog "
+"content."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FreebiesCafe"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://freebiescafe.com"
+msgstr ""
